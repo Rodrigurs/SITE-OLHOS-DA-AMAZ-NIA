@@ -23,4 +23,66 @@ The website combines educational content with a modern interface to encourage pe
 
 ## 🛠️ Technologies
 
-This project was deve
+This project was developed using:
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Responsive Web Design**
+
+## 🚀 How to Run
+
+No installation or special configuration is required.
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/olhos-da-amazonia.git
+```
+
+2. Open the project folder in **Visual Studio Code**.
+
+3. Open the `index.html` file.
+
+4. You can run the project using **Live Server** or simply open the HTML file in your browser.
+
+## 📂 Project Structure
+
+```text
+olhos-da-amazonia/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── ...
+└── README.md
+```
+
+## 🎯 Project Goals
+
+The project aims to:
+
+* Promote awareness about the Amazon Rainforest.
+* Present information in an accessible and attractive way.
+* Highlight the importance of biodiversity.
+* Encourage environmental preservation.
+* Practice front-end web development skills.
+
+## 🌎 Why the Amazon Matters
+
+The Amazon Rainforest is one of the world's most important ecosystems. It contains extraordinary biodiversity and plays an important role in the global environment.
+
+Protecting the Amazon means protecting wildlife, forests, rivers, and the communities that depend on this ecosystem.
+
+## 👨‍💻 Academic Project
+
+This website was developed as a **college project** to practice web development, design, responsiveness, and JavaScript interactivity.
+
+---
+
+⭐ **If you enjoyed this project, consider giving the repository a star!**
+
+🌿 *Protect the Amazon. Protect our future.*
